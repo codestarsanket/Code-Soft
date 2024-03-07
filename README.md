@@ -22,7 +22,7 @@ To run this web application locally, follow these steps:
 
 ## Author
 
-<h1>Rohit Mathe</h1>
+<h1>SANKET JAISWAL</h1>
 
 ## License
 
